@@ -115,7 +115,7 @@ _header: ""
 3. **迅速なフィードバック**
 4. **保守のしやすさ**
 
-![bg contain right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaE6kXbRFcc4dDhMl_jvvjIPmE9ktWcFS4Q&usqp=CAU)
+![bg contain right](./image/02.jpg)
 
 <!-- TODO: ここに図を載せる -->
 
@@ -133,7 +133,11 @@ _header: ""
 - **なるべく多くのプロダクションコード**を実行するようにする
 - 最も適したテスト : **End-to-End テスト**
 
-![bg contain right:20%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaE6kXbRFcc4dDhMl_jvvjIPmE9ktWcFS4Q&usqp=CAU)
+![bg contain right:20%](./image/01.jpeg)
+
+---
+
+![bg contain](./image/01.jpeg)
 
 ---
 
@@ -145,7 +149,7 @@ _header: ""
       Bのインターフェースを変更したらAの関数のテストが落ちてしまった
     - コンポーネントで出力されるDOMを文字列でアサーションしており、
       spanタグをpタグにしたらテストが落ちてしまった（振る舞いは問題ないのに）
-![bg contain right:20%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaE6kXbRFcc4dDhMl_jvvjIPmE9ktWcFS4Q&usqp=CAU)
+![bg contain right:20%](./image/01.jpeg)
 
 ---
 
@@ -162,7 +166,7 @@ _header: ""
 - 迅速なフィードバックを測る指標は、テストの実行時間。
 - E2Eテストは実行時間が長く、外部依存等がない単体テストは実行時間が短い。
 
-![bg contain right:20%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaE6kXbRFcc4dDhMl_jvvjIPmE9ktWcFS4Q&usqp=CAU)
+![bg contain right:20%](./image/01.jpeg)
 
 ---
 
@@ -173,7 +177,15 @@ _header: ""
 2. **テストを行うこと**がどのくらい難しいのか
     - いろんなものを起動させないと実行できないような場合など
 
-![bg contain right:20%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaE6kXbRFcc4dDhMl_jvvjIPmE9ktWcFS4Q&usqp=CAU)
+![bg contain right:20%](./image/01.jpeg)
+
+---
+
+![bg contain](./image/02.jpg)
+
+---
+
+![bg contain](./image/03.jpg)
 
 ---
 ## 理想的なテストの探求
